@@ -31,5 +31,5 @@
 <br />
 <br />
 
-[website]: https://valentindev.com
+[website]: https://valentinmussetdev.com
 [linkedin]: https://www.linkedin.com/in/valentin-musset
