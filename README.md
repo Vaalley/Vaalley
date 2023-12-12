@@ -5,7 +5,7 @@ Welcome to my GitHub profile.
 ## 📚 About Me 
 
 - I'm a software developer who loves to learn new things.
-- Currently diving into SvelteKit.
+- Currently diving into SvelteKit and OpenGL.
 
 ## 🔧 Technologies & Tools
 
