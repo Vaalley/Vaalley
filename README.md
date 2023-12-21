@@ -12,7 +12,7 @@ Started coding in ealry 2021 thanks to a friend and been loving it since then, s
 *   🤝  I'm open to collaborating on cool open-source web or C++ projects to get better
 
 
-*   ### Skills
+### Skills
 
   
 <p align="left">
