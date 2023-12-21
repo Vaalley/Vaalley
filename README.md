@@ -37,7 +37,10 @@ Started coding in ealry 2021 thanks to a friend and been loving it since then, s
 ### Badges
 
 
-<b>My GitHub Stats</b><a
+<b>My GitHub Stats</b>
+
+
+<a
                       href="http://www.github.com/Vaalley"><img src="https://github-readme-stats.vercel.app/api?username=Vaalley&show_icons=true&hide=stars,&title_color=f97316&text_color=ffffff&icon_color=f97316&bg_color=1c1917&hide_border=true&show_icons=true" alt="Vaalley's GitHub stats" /></a><a
                       href="http://www.github.com/Vaalley"><img
                   src="https://github-readme-streak-stats.herokuapp.com/?user=Vaalley&stroke=ffffff&background=1c1917&ring=f97316&fire=f97316&currStreakNum=ffffff&currStreakLabel=f97316&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
