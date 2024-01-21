@@ -4,7 +4,7 @@ Hi 👋 My name is Valentin
 Software Engineer
 -----------------
 
-Started coding in ealry 2021 thanks to a friend and been loving it since then, started with small Discord bots, then websites and now I do Web Dev and some C++
+Started coding in early 2020 thanks to a friend and been loving it since then, started with small Discord bots, then websites and now I do Web Dev and some C++
 
 *   🌍  I'm based in France
 *   ✉️  You can contact me at [valentin.musset.dev@gmail.com](mailto:valentin.musset.dev@gmail.com)
