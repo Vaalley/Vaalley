@@ -8,8 +8,8 @@ Started coding in early 2020 thanks to a friend and been loving it since then, s
 
 *   🌍  I'm based in France
 *   ✉️  You can contact me at [valentin.musset.dev@gmail.com](mailto:valentin.musset.dev@gmail.com)
-*   🧠  I'm learning SvelteKit and C++
-*   🤝  I'm open to collaborating on cool open-source web or C++ projects to get better
+*   🧠  I'm learning SvelteKit and Rust
+*   🤝  I'm open to collaborating on cool open-source web or Rust projects to get better
 
 
 ### Skills
