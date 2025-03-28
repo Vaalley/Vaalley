@@ -6,4 +6,4 @@ Building and exploring code. Sharing my projects here.
 
 ## Contact
 
-*   Email: (valentin.musset.dev@gmail.com)
+*   Email: valentin.musset.dev@gmail.com
